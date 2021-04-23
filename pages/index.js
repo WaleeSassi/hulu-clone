@@ -10,7 +10,10 @@ export default function Home({ results }) {
 		<div>
 			<Head>
 				<title>Hulu 2.0</title>
-				<link rel='icon' href='/favicon.ico' />
+				<link
+					rel='icon'
+					href='https://assetshuluimcom-a.akamaihd.net/h3o/facebook_share_thumb_default_hulu.jpg'
+				/>
 			</Head>
 			<Header />
 			<Nav />
